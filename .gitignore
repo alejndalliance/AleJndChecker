@@ -1,3 +1,7 @@
+test
+.gitignore
+decrypt.py
+checker
 # Prerequisites
 *.d
 
